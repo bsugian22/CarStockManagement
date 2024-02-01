@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Billy James Sugian\\Car\\CarStockManagement\\CarStockManagement.csproj": {}
+    "C:\\Users\\Billy James Sugian\\OneDrive\\Documents\\GitHub\\zz\\CarStockManagement\\CarStockManagement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Billy James Sugian\\Car\\CarStockManagement\\CarStockManagement.csproj": {
+    "C:\\Users\\Billy James Sugian\\OneDrive\\Documents\\GitHub\\zz\\CarStockManagement\\CarStockManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Billy James Sugian\\Car\\CarStockManagement\\CarStockManagement.csproj",
+        "projectUniqueName": "C:\\Users\\Billy James Sugian\\OneDrive\\Documents\\GitHub\\zz\\CarStockManagement\\CarStockManagement.csproj",
         "projectName": "CarStockManagement",
-        "projectPath": "C:\\Users\\Billy James Sugian\\Car\\CarStockManagement\\CarStockManagement.csproj",
+        "projectPath": "C:\\Users\\Billy James Sugian\\OneDrive\\Documents\\GitHub\\zz\\CarStockManagement\\CarStockManagement.csproj",
         "packagesPath": "C:\\Users\\Billy James Sugian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Billy James Sugian\\Car\\CarStockManagement\\obj\\",
+        "outputPath": "C:\\Users\\Billy James Sugian\\OneDrive\\Documents\\GitHub\\zz\\CarStockManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Billy James Sugian\\AppData\\Roaming\\NuGet\\NuGet.Config",
