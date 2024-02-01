@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "+dkav0og/TdMysnrsgs1wPc0Tr0doPhGDBN1SwKHKFphPilawqrGKd7I91E210QUx56WSAGdSQ1r7ejRN8uREw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Billy James Sugian\\Car\\CarStockManagement\\CarStockManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Billy James Sugian\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.1\\microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
+    "C:\\Users\\Billy James Sugian\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Billy James Sugian\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Billy James Sugian\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Billy James Sugian\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Billy James Sugian\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Billy James Sugian\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

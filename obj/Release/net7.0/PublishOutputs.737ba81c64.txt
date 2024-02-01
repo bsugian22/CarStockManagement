@@ -1,0 +1,12 @@
+C:\Users\Billy James Sugian\Car\CarStockManagement\out\CarStockManagement.exe
+C:\Users\Billy James Sugian\Car\CarStockManagement\out\appsettings.Development.json
+C:\Users\Billy James Sugian\Car\CarStockManagement\out\appsettings.json
+C:\Users\Billy James Sugian\Car\CarStockManagement\out\CarStockManagement.dll
+C:\Users\Billy James Sugian\Car\CarStockManagement\out\CarStockManagement.deps.json
+C:\Users\Billy James Sugian\Car\CarStockManagement\out\CarStockManagement.runtimeconfig.json
+C:\Users\Billy James Sugian\Car\CarStockManagement\out\CarStockManagement.pdb
+C:\Users\Billy James Sugian\Car\CarStockManagement\out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Billy James Sugian\Car\CarStockManagement\out\Microsoft.OpenApi.dll
+C:\Users\Billy James Sugian\Car\CarStockManagement\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Billy James Sugian\Car\CarStockManagement\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Billy James Sugian\Car\CarStockManagement\out\Swashbuckle.AspNetCore.SwaggerUI.dll
