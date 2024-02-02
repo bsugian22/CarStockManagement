@@ -21,7 +21,8 @@ This project is a .NET Core Web API for managing car stocks with Swagger documen
 
 The Docker image for this project is available on Docker Hub:
 
-[docker.io/billy22/carstockmanagement:latest]
+[/billy22/carstockmanagement:latest]
+[https://hub.docker.com/repository/docker/billy22/carstockmanagement/]
 
 ## Submission
 
